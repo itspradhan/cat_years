@@ -10,6 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var inputCatYears: UITextField!
+    
+    @IBAction func buttonPressed(sender: AnyObject) {
+        humanAgeLabel.hidden = false
+        labelAge.hidden = false
+        var age = inputCatYears.text.toInt()! * 7
+        humanAgeLabel.text = String(age)
+    }
+    
+    @IBOutlet weak var humanAgeLabel: UILabel!
+    @IBOutlet weak var labelAge: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

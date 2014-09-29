@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Learning Swoft.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>5EC2147419D81C0B003D0F87</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EC2148A19D832C9003D0F87</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EC2149E19D832C9003D0F87</key>
 		<dict>
 			<key>primary</key>
 			<true/>

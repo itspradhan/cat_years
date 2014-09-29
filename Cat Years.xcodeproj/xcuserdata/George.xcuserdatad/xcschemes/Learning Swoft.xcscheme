@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5EC2145F19D81C0A003D0F87"
-               BuildableName = "Cat Years.app"
-               BlueprintName = "Cat Years"
+               BlueprintIdentifier = "5EC2148A19D832C9003D0F87"
+               BuildableName = "Learning Swoft.app"
+               BlueprintName = "Learning Swoft"
                ReferencedContainer = "container:Cat Years.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,9 +28,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5EC2147419D81C0B003D0F87"
-               BuildableName = "Cat YearsTests.xctest"
-               BlueprintName = "Cat YearsTests"
+               BlueprintIdentifier = "5EC2149E19D832C9003D0F87"
+               BuildableName = "Learning SwoftTests.xctest"
+               BlueprintName = "Learning SwoftTests"
                ReferencedContainer = "container:Cat Years.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,9 +46,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5EC2147419D81C0B003D0F87"
-               BuildableName = "Cat YearsTests.xctest"
-               BlueprintName = "Cat YearsTests"
+               BlueprintIdentifier = "5EC2149E19D832C9003D0F87"
+               BuildableName = "Learning SwoftTests.xctest"
+               BlueprintName = "Learning SwoftTests"
                ReferencedContainer = "container:Cat Years.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -56,9 +56,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5EC2145F19D81C0A003D0F87"
-            BuildableName = "Cat Years.app"
-            BlueprintName = "Cat Years"
+            BlueprintIdentifier = "5EC2148A19D832C9003D0F87"
+            BuildableName = "Learning Swoft.app"
+            BlueprintName = "Learning Swoft"
             ReferencedContainer = "container:Cat Years.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +75,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5EC2145F19D81C0A003D0F87"
-            BuildableName = "Cat Years.app"
-            BlueprintName = "Cat Years"
+            BlueprintIdentifier = "5EC2148A19D832C9003D0F87"
+            BuildableName = "Learning Swoft.app"
+            BlueprintName = "Learning Swoft"
             ReferencedContainer = "container:Cat Years.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -93,9 +93,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5EC2145F19D81C0A003D0F87"
-            BuildableName = "Cat Years.app"
-            BlueprintName = "Cat Years"
+            BlueprintIdentifier = "5EC2148A19D832C9003D0F87"
+            BuildableName = "Learning Swoft.app"
+            BlueprintName = "Learning Swoft"
             ReferencedContainer = "container:Cat Years.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
