@@ -15,8 +15,16 @@ class ViewController: UIViewController {
     @IBAction func buttonPressed(sender: AnyObject) {
         humanAgeLabel.hidden = false
         labelAge.hidden = false
-        var age = inputCatYears.text.toInt()! * 7
-        humanAgeLabel.text = String(age)
+        var age = inputCatYears.text.toInt()
+        
+        if ((age) != nil ) {
+            age = age! * 7
+            humanAgeLabel.text = "\(age!)"
+        }
+        else {
+            labelAge.text = "Please enter age in the box"
+        }
+
     }
     
     @IBOutlet weak var humanAgeLabel: UILabel!
